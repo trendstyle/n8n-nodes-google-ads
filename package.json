@@ -16,7 +16,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/digital-boss/n8n-nodes-google-ads"
+    "url": "https://github.com/trendstyle/n8n-nodes-google-ads.git"
   },
   "main": "index.js",
   "scripts": {
