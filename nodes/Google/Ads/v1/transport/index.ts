@@ -28,7 +28,7 @@ export async function apiRequest(this: IExecuteFunctions | IExecuteSingleFunctio
 		method,
 		body,
 		qs,
-		uri: uri || `https://googleads.googleapis.com/v9${endpoint}`,
+		uri: uri || `https://googleads.googleapis.com/v15${endpoint}`,
 		json: true,
 	};
 
